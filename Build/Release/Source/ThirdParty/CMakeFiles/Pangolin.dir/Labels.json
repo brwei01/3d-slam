@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/brwei01/Dev/3d-slam-backup/Build/Release/Source/ThirdParty/CMakeFiles/Pangolin"
+		},
+		{
+			"file" : "/home/brwei01/Dev/3d-slam-backup/Build/Release/Source/ThirdParty/CMakeFiles/Pangolin.rule"
+		},
+		{
+			"file" : "/home/brwei01/Dev/3d-slam-backup/Build/Release/Source/ThirdParty/CMakeFiles/Pangolin-complete.rule"
+		},
+		{
+			"file" : "/home/brwei01/Dev/3d-slam-backup/Build/Release/Source/ThirdParty/Pangolin-prefix/src/Pangolin-stamp/Pangolin-install.rule"
+		},
+		{
+			"file" : "/home/brwei01/Dev/3d-slam-backup/Build/Release/Source/ThirdParty/Pangolin-prefix/src/Pangolin-stamp/Pangolin-mkdir.rule"
+		},
+		{
+			"file" : "/home/brwei01/Dev/3d-slam-backup/Build/Release/Source/ThirdParty/Pangolin-prefix/src/Pangolin-stamp/Pangolin-download.rule"
+		},
+		{
+			"file" : "/home/brwei01/Dev/3d-slam-backup/Build/Release/Source/ThirdParty/Pangolin-prefix/src/Pangolin-stamp/Pangolin-update.rule"
+		},
+		{
+			"file" : "/home/brwei01/Dev/3d-slam-backup/Build/Release/Source/ThirdParty/Pangolin-prefix/src/Pangolin-stamp/Pangolin-patch.rule"
+		},
+		{
+			"file" : "/home/brwei01/Dev/3d-slam-backup/Build/Release/Source/ThirdParty/Pangolin-prefix/src/Pangolin-stamp/Pangolin-configure.rule"
+		},
+		{
+			"file" : "/home/brwei01/Dev/3d-slam-backup/Build/Release/Source/ThirdParty/Pangolin-prefix/src/Pangolin-stamp/Pangolin-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Pangolin"
+		],
+		"name" : "Pangolin"
+	}
+}

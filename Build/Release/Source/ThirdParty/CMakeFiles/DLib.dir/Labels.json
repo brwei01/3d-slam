@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/brwei01/Dev/3d-slam-backup/Build/Release/Source/ThirdParty/CMakeFiles/DLib"
+		},
+		{
+			"file" : "/home/brwei01/Dev/3d-slam-backup/Build/Release/Source/ThirdParty/CMakeFiles/DLib.rule"
+		},
+		{
+			"file" : "/home/brwei01/Dev/3d-slam-backup/Build/Release/Source/ThirdParty/CMakeFiles/DLib-complete.rule"
+		},
+		{
+			"file" : "/home/brwei01/Dev/3d-slam-backup/Build/Release/Source/ThirdParty/DLib-prefix/src/DLib-stamp/DLib-install.rule"
+		},
+		{
+			"file" : "/home/brwei01/Dev/3d-slam-backup/Build/Release/Source/ThirdParty/DLib-prefix/src/DLib-stamp/DLib-mkdir.rule"
+		},
+		{
+			"file" : "/home/brwei01/Dev/3d-slam-backup/Build/Release/Source/ThirdParty/DLib-prefix/src/DLib-stamp/DLib-download.rule"
+		},
+		{
+			"file" : "/home/brwei01/Dev/3d-slam-backup/Build/Release/Source/ThirdParty/DLib-prefix/src/DLib-stamp/DLib-update.rule"
+		},
+		{
+			"file" : "/home/brwei01/Dev/3d-slam-backup/Build/Release/Source/ThirdParty/DLib-prefix/src/DLib-stamp/DLib-patch.rule"
+		},
+		{
+			"file" : "/home/brwei01/Dev/3d-slam-backup/Build/Release/Source/ThirdParty/DLib-prefix/src/DLib-stamp/DLib-configure.rule"
+		},
+		{
+			"file" : "/home/brwei01/Dev/3d-slam-backup/Build/Release/Source/ThirdParty/DLib-prefix/src/DLib-stamp/DLib-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"DLib"
+		],
+		"name" : "DLib"
+	}
+}

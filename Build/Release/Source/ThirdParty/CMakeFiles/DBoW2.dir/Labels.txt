@@ -1,0 +1,13 @@
+# Target labels
+ DBoW2
+# Source files and their labels
+/home/brwei01/Dev/3d-slam-backup/Build/Release/Source/ThirdParty/CMakeFiles/DBoW2
+/home/brwei01/Dev/3d-slam-backup/Build/Release/Source/ThirdParty/CMakeFiles/DBoW2.rule
+/home/brwei01/Dev/3d-slam-backup/Build/Release/Source/ThirdParty/CMakeFiles/DBoW2-complete.rule
+/home/brwei01/Dev/3d-slam-backup/Build/Release/Source/ThirdParty/DBoW2-prefix/src/DBoW2-stamp/DBoW2-install.rule
+/home/brwei01/Dev/3d-slam-backup/Build/Release/Source/ThirdParty/DBoW2-prefix/src/DBoW2-stamp/DBoW2-mkdir.rule
+/home/brwei01/Dev/3d-slam-backup/Build/Release/Source/ThirdParty/DBoW2-prefix/src/DBoW2-stamp/DBoW2-download.rule
+/home/brwei01/Dev/3d-slam-backup/Build/Release/Source/ThirdParty/DBoW2-prefix/src/DBoW2-stamp/DBoW2-update.rule
+/home/brwei01/Dev/3d-slam-backup/Build/Release/Source/ThirdParty/DBoW2-prefix/src/DBoW2-stamp/DBoW2-patch.rule
+/home/brwei01/Dev/3d-slam-backup/Build/Release/Source/ThirdParty/DBoW2-prefix/src/DBoW2-stamp/DBoW2-configure.rule
+/home/brwei01/Dev/3d-slam-backup/Build/Release/Source/ThirdParty/DBoW2-prefix/src/DBoW2-stamp/DBoW2-build.rule

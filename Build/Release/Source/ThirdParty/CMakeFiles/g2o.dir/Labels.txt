@@ -1,0 +1,13 @@
+# Target labels
+ g2o
+# Source files and their labels
+/home/brwei01/Dev/3d-slam-backup/Build/Release/Source/ThirdParty/CMakeFiles/g2o
+/home/brwei01/Dev/3d-slam-backup/Build/Release/Source/ThirdParty/CMakeFiles/g2o.rule
+/home/brwei01/Dev/3d-slam-backup/Build/Release/Source/ThirdParty/CMakeFiles/g2o-complete.rule
+/home/brwei01/Dev/3d-slam-backup/Build/Release/Source/ThirdParty/g2o-prefix/src/g2o-stamp/g2o-install.rule
+/home/brwei01/Dev/3d-slam-backup/Build/Release/Source/ThirdParty/g2o-prefix/src/g2o-stamp/g2o-mkdir.rule
+/home/brwei01/Dev/3d-slam-backup/Build/Release/Source/ThirdParty/g2o-prefix/src/g2o-stamp/g2o-download.rule
+/home/brwei01/Dev/3d-slam-backup/Build/Release/Source/ThirdParty/g2o-prefix/src/g2o-stamp/g2o-update.rule
+/home/brwei01/Dev/3d-slam-backup/Build/Release/Source/ThirdParty/g2o-prefix/src/g2o-stamp/g2o-patch.rule
+/home/brwei01/Dev/3d-slam-backup/Build/Release/Source/ThirdParty/g2o-prefix/src/g2o-stamp/g2o-configure.rule
+/home/brwei01/Dev/3d-slam-backup/Build/Release/Source/ThirdParty/g2o-prefix/src/g2o-stamp/g2o-build.rule

@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/brwei01/Dev/3d-slam-backup/Source/ThirdParty/g2o/g2o-master/lib/libg2o_ext_freeglut_minimal.a  CMakeFiles/freeglut_minimal.dir/freeglut_font.cpp.o CMakeFiles/freeglut_minimal.dir/freeglut_stroke_mono_roman.cpp.o CMakeFiles/freeglut_minimal.dir/freeglut_stroke_roman.cpp.o
+/usr/bin/ranlib /home/brwei01/Dev/3d-slam-backup/Source/ThirdParty/g2o/g2o-master/lib/libg2o_ext_freeglut_minimal.a

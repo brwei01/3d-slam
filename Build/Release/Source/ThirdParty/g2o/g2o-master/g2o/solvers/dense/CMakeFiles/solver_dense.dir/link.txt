@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/brwei01/Dev/3d-slam-backup/Source/ThirdParty/g2o/g2o-master/lib/libg2o_solver_dense.a  CMakeFiles/solver_dense.dir/solver_dense.cpp.o
+/usr/bin/ranlib /home/brwei01/Dev/3d-slam-backup/Source/ThirdParty/g2o/g2o-master/lib/libg2o_solver_dense.a

@@ -1,0 +1,13 @@
+# Target labels
+ Pangolin
+# Source files and their labels
+/home/brwei01/Dev/3d-slam-backup/Build/Release/Source/ThirdParty/CMakeFiles/Pangolin
+/home/brwei01/Dev/3d-slam-backup/Build/Release/Source/ThirdParty/CMakeFiles/Pangolin.rule
+/home/brwei01/Dev/3d-slam-backup/Build/Release/Source/ThirdParty/CMakeFiles/Pangolin-complete.rule
+/home/brwei01/Dev/3d-slam-backup/Build/Release/Source/ThirdParty/Pangolin-prefix/src/Pangolin-stamp/Pangolin-install.rule
+/home/brwei01/Dev/3d-slam-backup/Build/Release/Source/ThirdParty/Pangolin-prefix/src/Pangolin-stamp/Pangolin-mkdir.rule
+/home/brwei01/Dev/3d-slam-backup/Build/Release/Source/ThirdParty/Pangolin-prefix/src/Pangolin-stamp/Pangolin-download.rule
+/home/brwei01/Dev/3d-slam-backup/Build/Release/Source/ThirdParty/Pangolin-prefix/src/Pangolin-stamp/Pangolin-update.rule
+/home/brwei01/Dev/3d-slam-backup/Build/Release/Source/ThirdParty/Pangolin-prefix/src/Pangolin-stamp/Pangolin-patch.rule
+/home/brwei01/Dev/3d-slam-backup/Build/Release/Source/ThirdParty/Pangolin-prefix/src/Pangolin-stamp/Pangolin-configure.rule
+/home/brwei01/Dev/3d-slam-backup/Build/Release/Source/ThirdParty/Pangolin-prefix/src/Pangolin-stamp/Pangolin-build.rule

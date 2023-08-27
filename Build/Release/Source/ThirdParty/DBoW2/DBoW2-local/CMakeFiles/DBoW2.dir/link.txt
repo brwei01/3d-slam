@@ -1,0 +1,2 @@
+/usr/bin/ar qc libDBoW2.a  CMakeFiles/DBoW2.dir/src/BowVector.cpp.o CMakeFiles/DBoW2.dir/src/FBrief.cpp.o CMakeFiles/DBoW2.dir/src/FORB.cpp.o CMakeFiles/DBoW2.dir/src/FeatureVector.cpp.o CMakeFiles/DBoW2.dir/src/QueryResults.cpp.o CMakeFiles/DBoW2.dir/src/ScoringObject.cpp.o
+/usr/bin/ranlib libDBoW2.a
